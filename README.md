@@ -35,8 +35,18 @@ Test using gemini cli
 
 
 ## Screenshots
-
-![Screenshot](images/Screenshot 2026-01-29 at 10.53.12 PM.png)
+MCP List
+![Screenshot](images/1.png)
+Tool Calling
+![Screenshot](images/2.png)
+Ploting line chart
+![Screenshot](images/3.png)
+Ploting decomposition
+![Screenshot](images/4.png)
+Multistep execution
+![Screenshot](images/5.png)
+Forecast
+![Screenshot](images/6.png)
 
 
 ## Authors
