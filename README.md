@@ -33,6 +33,12 @@ Test using gemini cli
     /mcp
 ```
 
+
+## Screenshots
+
+![Screenshot](images/Screenshot 2026-01-29 at 10.53.12 PM.png)
+
+
 ## Authors
 
 - [@nitinappiah](https://nitinappiah.github.io/)
